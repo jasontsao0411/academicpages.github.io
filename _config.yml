@@ -83,10 +83,10 @@ author:
   name             : "Jingxuan Cao"
   avatar           : "ProfilePicture.jpg"
   bio              : "Senior Software Engineer at Visa"
-  location         : "Mountain View, CA"
+  location         : "Mountain View, California"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  googlescholar    : 
+  email            : "jingxuac@alumni.cmu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -100,14 +100,14 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "www.linkedin.com/in/jingxuancao"
+  orcid            : "http://orcid.org/0000-0002-1118-1615"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
